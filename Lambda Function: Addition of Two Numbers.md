@@ -10,7 +10,18 @@ To write a Python program that defines a **lambda function** which takes two arg
 
 ## 🧾 Program
 Add code here
+# Lambda function for addition
+add = lambda a, b: a + b
+
+# Driver code
+x = int(input("Enter first number: "))
+y = int(input("Enter second number: "))
+
+print("Sum of", x, "and", y, "is:", add(x, y))
+
 
 ## Output
+<img width="1096" height="664" alt="image" src="https://github.com/user-attachments/assets/48c98a67-1ef0-44f7-b63c-43f73e885539" />
+
 
 ## Result
